@@ -1,7 +1,8 @@
 # HVL-RAD230
 RAD230 - Medisinsk bildebehandling, kunstig intelligens og innovasjon i radiografi (HVL)
 
-https://www.hvl.no/studier/studieprogram/emne/rad230
+**Emnebeskrivelse:** https://www.hvl.no/studier/studieprogram/emne/rad230 <br>
+**Canvas:** https://hvl.instructure.com/courses/18689/pages/dataovelser-og-demonstrasjoner (krever innlogging)
 
 ## Innhold og oppbygning
 Utdanningen har medisinsk bildebehandling som faglig profil der kunnskap om biologiske basalfag, bildebehandlingsmetoder, bildeanalyser og visualisering av medisinske bilder står sentralt. Sentralt i emnet er tema knyttet til hvordan avansert bildebehandling og kunstig intelligens kan komme pasienten til nytte.  Kunstig intelligens og innovasjon innen medisinsk bildebehandling står også sentralt. 
