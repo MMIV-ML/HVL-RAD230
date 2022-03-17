@@ -34,6 +34,28 @@ Studenten…
 - *kjenner til nytenkning og innovasjonsprosesser for å bidra til en bærekraftig og ansvarlig utvikling innen radiografi
 
 
+## Anbefalte forkunnskaper
+RAD200, RAD210, RADP2, RAD220 og RADP3 
+
+
 ## Undervisnings- og læringsformer
 I dette emnet vil studentaktive læringsformer benyttes for å involvere studentene i teoretisk læring, muliggjøre praktisk utprøving av teoretiske prinsipper og ferdigheter, og for å legge til rette for diskusjoner, samarbeidslæring og øvelse i å presentere relevant stoff. Arbeid i grupper vil stå i fokus i emnet. Ulike arbeidsformer er gruppearbeid, forelesninger og selvstudier, teambased learning, seminar, laboratorieøvelser på SimArena. Digitale læringsressurser vil benyttes, blant annet som forberedelser til undervisning og laboratorieøvelser. 
+
+## Arbeidskrav
+Følgende obligatoriske læringsaktiviteter må være godkjent for at studenten kan framstille seg til eksamen:
+
+1. Tilstedeværelse 80% i studentaktiv- og erfaringsbasert undervisning
+
+2. Fremlegg på seminar i grupper, 15 minutters varighet. Digital presentasjonsform, 2 forsøk
+
+ Læringsaktiviteten er gyldig i 4 semestre.  
+
+## Vurderingsform
+
+### Hjemmeeksamen over 4 dager
+Digital presentasjon med bilde, tekst og tale av selvvalgt tema (videoformat), 10 minutter presentasjon.
+
+### Vurderingsuttrykk
+Gradert karakterskala A til F, der A til E er beståtte karakterer og F er ikke bestått.
+
 
