@@ -1,8 +1,8 @@
 # HVL-RAD230
 ## RAD230 - Medisinsk bildebehandling, kunstig intelligens og innovasjon i radiografi (HVL)
 
-> Dette repositoriet dekker deler av Modul 2 og Modul 3 i emnet. Modul 3 (Kunstig intelligens) er sterkt beslektet med det elektive emnet [ELMED219](https://www.uib.no/emne/ELMED219) (Kunstig intelligens og beregningsorienter medisin) som gis av Det medisinske fakultet, UiB i samarbeid med Institutt for datateknologi, elektroteknologi og 
-realfag ved HVL. Alt dette materialet er også tilgjengelig for RAD230 studenter og finnes på https://github.com/MMIV-ML/ELMED219-2022.
+> Dette repositoriet dekker deler av Modul 2 og Modul 3 i emnet RAD230. Modul 3 (Kunstig intelligens) er sterkt beslektet med det elektive emnet [ELMED219](https://www.uib.no/emne/ELMED219) (**Kunstig intelligens og beregningsorienter medisin**) som gis av Det medisinske fakultet, UiB i samarbeid med Institutt for datateknologi, elektroteknologi og 
+realfag ved HVL. Alt dette materialet er også tilgjengelig for RAD230 studenter og finnes på https://github.com/MMIV-ML/ELMED219-2022. En kort karakterisering og visjon for ELMED219 er oppsummert [her](https://docs.google.com/presentation/d/e/2PACX-1vQ2goLSZsIjeCQrjUnA4lfnXe2wgsgDpUXWe8be4K_pTqo4OD9qELxDlJyKknYVdCjJ34-Q4gcu-yYx/pub?start=false&loop=false&delayms=3000).
 
 **Emnebeskrivelse:** https://www.hvl.no/studier/studieprogram/emne/rad230 <br>
 **Canvas:** https://hvl.instructure.com/courses/18689/pages/dataovelser-og-demonstrasjoner (krever innlogging)
