@@ -1,0 +1,1 @@
+Dyplæring_og_automatisk_deteksjon_av_abnormalitet_i_skjelettrøntgen
