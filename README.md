@@ -20,19 +20,19 @@ Det er også mulig å installere alle øvelser lokalt på egen laptop for de som
 Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læringsutbyttet kan være større gjennom å beherske Python-baserte verktøy på egen laptop, også for senere bruk i studiet og i arbeidet som radiograf.
 
 
-## Tidsplan (mindre endringer kan opptre)
+## Tidsplan (mindre justeringer kan opptre)
 
-| Dag       |  Innhold
-|------------|------------
+| Dag            |  Innhold
+|----------------|------------
 |**Torsdag 12/5**|                                                  
-|10:15-12:00 | Hva er Kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. [Link til presentasjonen](https://...). Link to [notebook](https://...).
+|10:15-12:00     | Hva er Kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. [Link til presentasjonen](https://...). Link to [notebook](https://...).
 |12.45-15.00 | Arbeid med notebooken [Introduksjon til maskinlæring](https://...) m/ M.K.
-|**Fredag 13/5**|                                                
-|10:15-11:15 | Hva er dyplæring (deep learning)? [Link til presentasjonen](https://...) (S.K.)
-|12:00-15:00 | Gjennomgang av hands-on eksempel med automatisk deteksjon av fraktur i skjelettrøntgenbilder. Link til [notebok](https://...)
-|**Mandag 16/5**|                                             
-|10:15-12:00 | Introduksjon til multiparametrisk MRI av hjernen og vevsklassifikasjon i multispektrale MR-bilder ved bruk av maskinlæring. [Link til presentasjon](https://...)
-|12.45-15.00 | Arbeid med notebooken [Vevsklassifikasjon](https://...) m/ M.K.
+|**Fredag 13/5** |                                                
+|10:15-11:15     | Hva er dyplæring (deep learning)? [Link til presentasjonen](https://...) (S.K.)
+|12:00-15:00     | Gjennomgang av hands-on eksempel med automatisk deteksjon av fraktur i skjelettrøntgenbilder. Link til [notebok](https://...)
+|**Mandag 16/5** |                                             
+|10:15-12:00     | Introduksjon til multiparametrisk MRI av hjernen og vevsklassifikasjon i multispektrale MR-bilder ved bruk av maskinlæring. [Link til presentasjon](https://...)
+|12.45-15.00     | Arbeid med notebooken [Vevsklassifikasjon](https://...) m/ M.K.
                            
 _______________________________
 
