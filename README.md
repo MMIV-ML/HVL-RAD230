@@ -22,7 +22,7 @@ Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læ
 
 ## Tidsplan (mindre justeringer kan opptre)
 
-| Dag            |  Innhold
+| Dag og tidsrom |  Innhold
 |----------------|------------
 |**Torsdag 12/5**|                                                  
 |10:15-12:00     | Hva er Kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. [Link til presentasjonen](https://...). Link to [notebook](https://...).
