@@ -8,7 +8,7 @@ realfag ved HVL. Alt dette materialet er også tilgjengelig for RAD230 studenter
 # Plan for Modul 2
 
 Forelesninger og hands-on øvelser går dagene 12. 13. og 16. mai kl. 10:15 - 15:00 på auditorium C121 / HVL Kronstad. Hver av disse dager vil første del vil være en motiverende forelesning, så en lunchpause (ca. 45 min) og deretter praktiske hands-on øvelser ved bruk av Jupyter Notebooks og Google Colab.<br>
-Vi er tre lærere og hjelpere som deltar: Arvid Lundervold (A.L.), Sathieash Kaliyugarasan (S.K.), Marek Kocinski (M.K.)
+Vi er tre lærere / hjelpere som deltar: Arvid Lundervold (A.L.), Sathieash Kaliyugarasan (S.K.), Marek Kocinski (M.K.)
 
 
 ## Gjør deg klar
@@ -25,14 +25,14 @@ Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læ
 | Dag og tidsrom |  Innhold
 |----------------|------------
 |**Torsdag 12/5**|                                                  
-|10:15-12:00     | Hva er Kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. [Link til presentasjonen](https://...). Link to [notebook](https://...).
-|12.45-15.00 | Arbeid med notebooken [Introduksjon til maskinlæring](https://...) m/ M.K.
+|10:15-12:00     | Hva er Kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. [Link til presentasjonen](https://...). Link to [notebook](https://...). (A.L.)
+|12.45-15.00 | Arbeid med notebooken [Introduksjon til maskinlæring](https://...) (m/ M.K.)
 |**Fredag 13/5** |                                                
 |10:15-11:15     | Hva er dyplæring (deep learning)? [Link til presentasjonen](https://...) (S.K.)
 |12:00-15:00     | Gjennomgang av hands-on eksempel med automatisk deteksjon av fraktur i skjelettrøntgenbilder. Link til [notebok](https://...)
 |**Mandag 16/5** |                                             
-|10:15-12:00     | Introduksjon til multiparametrisk MRI av hjernen og vevsklassifikasjon i multispektrale MR-bilder ved bruk av maskinlæring. [Link til presentasjon](https://...)
-|12.45-15.00     | Arbeid med notebooken [Vevsklassifikasjon](https://...) m/ M.K.
+|10:15-12:00     | Introduksjon til multiparametrisk MRI av hjernen og vevsklassifikasjon i multispektrale MR-bilder ved bruk av maskinlæring. [Link til presentasjon](https://...) (A.L.)
+|12.45-15.00     | Arbeid med notebooken [Vevsklassifikasjon](https://...) (m/ M.K.)
                            
 _______________________________
 
