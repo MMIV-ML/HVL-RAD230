@@ -25,7 +25,7 @@ Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læ
 | Dag og tidsrom |  Innhold
 |----------------|------------
 |**Torsdag 12/5**|                                                  
-|10:15-12:00     | Hva er Kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. [Link til presentasjonen](https://...). Link to [notebook](https://...). (A.L.)
+|10:15-12:00     | Hva er kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. [Link til presentasjonen](https://...). Link to [notebook](https://...). (A.L.)
 |12.45-15.00 | Arbeid med notebooken [Introduksjon til maskinlæring](https://...) (m/ M.K.)
 |**Fredag 13/5** |                                                
 |10:15-11:15     | Hva er dyplæring (deep learning)? [Link til presentasjonen](https://...) (S.K.)
