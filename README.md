@@ -4,6 +4,42 @@
 > Dette repositoriet dekker deler av Modul 1 og Modul 2 i emnet RAD230. Modul 2 (Kunstig intelligens) er sterkt beslektet med det elektive emnet [ELMED219](https://www.uib.no/emne/ELMED219) (**Kunstig intelligens og beregningsorienter medisin**) som gis av Det medisinske fakultet, UiB i samarbeid med Institutt for datateknologi, elektroteknologi og 
 realfag ved HVL. Alt dette materialet er også tilgjengelig for RAD230 studenter og finnes på https://github.com/MMIV-ML/ELMED219-2022. En kort karakterisering og visjon for ELMED219 er oppsummert [her](https://docs.google.com/presentation/d/e/2PACX-1vQ2goLSZsIjeCQrjUnA4lfnXe2wgsgDpUXWe8be4K_pTqo4OD9qELxDlJyKknYVdCjJ34-Q4gcu-yYx/pub?start=false&loop=false&delayms=3000).
 
+
+# Plan for Modul 2
+
+Forelesninger og hands-on øvelser går dagene 12. 13. og 16. mai kl. 10:15 - 15:00 på auditorium C121 / HVL Kronstad. Hver av disse dager vil første del vil være en motiverende forelesning, så en lunchpause (ca. 45 min) og deretter praktiske hands-on øvelser ved bruk av Jupyter Notebooks og Google Colab.
+
+
+## Gjør deg klar
+
+Se gjennom kursmaterialet for denne modulen og gjør deg litt kjent med verktøyene GitHub, Python, Jupyter Notebooks, og Google Colab. 
+
+### Lokal installasjon via Anaconda
+Det er også mulig å installere alle øvelser lokalt på egen laptop for de som ønker det (se informasjon i [setup.md](https://...).
+Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læringsutbyttet kan være større gjennom å beherske Python-baserte verktøy på egen laptop, også for senere bruk i studiet og i arbeidet som radiograf.
+
+
+## Tidsplan (mindre endringer kan opptre)
+
+| Dag       |  Innhold
+|------------|------------
+|**Torsdag 12. mai (Arvid L.)**|                                                  
+|10:15-12:00 | Hva er Kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. [Link til presentasjonen](https://...). Link to [notebook](https://...).
+|12.45-15.00 | Arbeid med notebooken [Introduksjon til maskinlæring](https://...)
+|**Fredag 13. mai (Sathiesh K)**|                                                
+|10:15-11:15 | Hva er dyplæring (deep learning)? [Link til presentasjonen](https://...)
+|12:00-15:00 | Gjennomgang av hands-on eksempel med automatisk deteksjon av fraktur i skjelettrøntgenbilder. Link til [notebok](https://...)
+|**Mandag 16. mai (Arvid L.)**|                                             
+|10:15-12:00 | Introduksjon til multiparametrisk MRI av hjernen og vevsklassifikasjon i multispektrale MR-bilder ved bruk av maskinlæring. [Link til presentasjon](https://...)
+|12.45-15.00 | Arbeid med notebooken [Vevsklassifikasjon](https://...)
+                           
+
+
+
+_______________________________
+
+
+
 **Emnebeskrivelse for RAD230:** https://www.hvl.no/studier/studieprogram/emne/rad230 <br>
 **Canvas:** https://hvl.instructure.com/courses/18689/pages/dataovelser-og-demonstrasjoner (krever innlogging)
 
