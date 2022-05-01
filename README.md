@@ -16,7 +16,7 @@ Vi er tre lærere / hjelpere som deltar: Arvid Lundervold (A.L.), Sathieash Kali
 Se gjennom kursmaterialet for denne modulen og gjør deg litt kjent med verktøyene GitHub, Python, Jupyter Notebooks, og Google Colab. 
 
 ### Lokal installasjon via Anaconda
-Det er også mulig å installere alle øvelser lokalt på egen laptop for de som ønker det (se informasjon i [setup.md](https://...).
+Det er også mulig å installere alle øvelser lokalt på egen laptop for de som ønsker det (se informasjon i [setup.md](https://...).
 Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læringsutbyttet kan være større gjennom å beherske Python-baserte verktøy på egen laptop, også for senere bruk i studiet og i arbeidet som radiograf.
 
 
@@ -25,7 +25,7 @@ Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læ
 | Dag og tidsrom |  Innhold
 |----------------|------------
 |**Torsdag 12/5**|                                                  
-|10:15-12:00     | Hva er kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. [Link til presentasjonen](https://...). Link to [notebook](https://...). (A.L.)
+|10:15-12:00     | Hva er kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. [Link til presentasjonen](https://docs.google.com/presentation/d/e/2PACX-1vTnq7vD7ppuRE9Wrc1mj_JJmkDat9aBLW_P4Gm65K9BDYBXFv6ZOae1b-blhQadBYJ1LYbrP6DDG_L3/pub?start=false&loop=false&delayms=3000). Link to [notebook](https://...). (A.L.)
 |12.45-15.00 | Arbeid med notebooken [Introduksjon til maskinlæring](https://...) (m/ M.K.)
 |**Fredag 13/5** |                                                
 |10:15-11:15     | Hva er dyplæring (deep learning)? [Link til presentasjonen](https://...) (S.K.)
