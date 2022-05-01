@@ -24,13 +24,13 @@ Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læ
 
 | Dag       |  Innhold
 |------------|------------
-|**Torsdag 12. mai**|                                                  
+|**Torsdag 12/5**|                                                  
 |10:15-12:00 | Hva er Kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. [Link til presentasjonen](https://...). Link to [notebook](https://...).
 |12.45-15.00 | Arbeid med notebooken [Introduksjon til maskinlæring](https://...) m/ M.K.
-|**Fredag 13. mai**|                                                
+|**Fredag 13/5**|                                                
 |10:15-11:15 | Hva er dyplæring (deep learning)? [Link til presentasjonen](https://...) (S.K.)
 |12:00-15:00 | Gjennomgang av hands-on eksempel med automatisk deteksjon av fraktur i skjelettrøntgenbilder. Link til [notebok](https://...)
-|**Mandag 16. mai**|                                             
+|**Mandag 16/5**|                                             
 |10:15-12:00 | Introduksjon til multiparametrisk MRI av hjernen og vevsklassifikasjon i multispektrale MR-bilder ved bruk av maskinlæring. [Link til presentasjon](https://...)
 |12.45-15.00 | Arbeid med notebooken [Vevsklassifikasjon](https://...) m/ M.K.
                            
