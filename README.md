@@ -1,7 +1,7 @@
 # HVL-RAD230
 ## RAD230 - Medisinsk bildebehandling, kunstig intelligens og innovasjon i radiografi (HVL)
 
-> Dette repositoriet dekker deler av Modul 1 og Modul 2 i emnet RAD230. Modul 2 (Kunstig intelligens) er sterkt beslektet med det elektive emnet [ELMED219](https://www.uib.no/emne/ELMED219) (**Kunstig intelligens og beregningsorienter medisin**) som gis av Det medisinske fakultet, UiB i samarbeid med Institutt for datateknologi, elektroteknologi og 
+> Dette repositoriet dekker deler av Modul 1 og Modul 2 i emnet RAD230. Modul 2 (Kunstig intelligens) er sterkt beslektet med det elektive emnet [ELMED219](https://www.uib.no/emne/ELMED219) (**Kunstig intelligens og beregningsorienter medisin**) som gis av Det medisinske fakultet, UiB i samarbeid med Institutt for datateknologi, elektroteknologi og
 realfag ved HVL. Alt dette materialet er også tilgjengelig for RAD230 studenter og finnes på https://github.com/MMIV-ML/ELMED219-2022. En kort karakterisering og visjon for ELMED219 er oppsummert [her](https://docs.google.com/presentation/d/e/2PACX-1vQ2goLSZsIjeCQrjUnA4lfnXe2wgsgDpUXWe8be4K_pTqo4OD9qELxDlJyKknYVdCjJ34-Q4gcu-yYx/pub?start=false&loop=false&delayms=3000).
 
 
@@ -13,7 +13,7 @@ Vi er tre lærere / hjelpere som deltar: Arvid Lundervold (A.L.), Sathieash Kali
 
 ## Gjør deg klar
 
-Se gjennom kursmaterialet for denne modulen og gjør deg litt kjent med verktøyene GitHub, Python, Jupyter Notebooks, og Google Colab. 
+Se gjennom kursmaterialet for denne modulen og gjør deg litt kjent med verktøyene GitHub, Python, Jupyter Notebooks, og Google Colab.
 
 ### Lokal installasjon via Anaconda
 Det er også mulig å installere alle øvelser lokalt på egen laptop for de som ønsker det (se informasjon i [setup.md](https://...).
@@ -33,7 +33,7 @@ Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læ
 |**Mandag 16/5** |                                             
 |10:15-12:00     | Introduksjon til multiparametrisk MRI av hjernen og vevsklassifikasjon i multispektrale MR-bilder ved bruk av maskinlæring. [Link til presentasjon](https://...) (A.L.)
 |12.45-15.00     | Arbeid med notebooken [Vevsklassifikasjon](https://...) (m/ M.K.)
-                           
+
 _______________________________
 
 
@@ -42,11 +42,11 @@ _______________________________
 **Canvas:** https://hvl.instructure.com/courses/18689/pages/dataovelser-og-demonstrasjoner (krever innlogging)
 
 
-<img src="./assets/cc_by_sa.png" width="75"> Innholdet i disse deler av kurset (Modul 2 og Modul 3) gis under en <b><a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></b> lisens hvis ikke annet er angitt.
+<img src="cc_by_sa.png" width="75"> Innholdet i disse deler av kurset (Modul 2) gis under en <b><a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></b> lisens hvis ikke annet er angitt.
 
 <!--
 ## Innhold og oppbygning
-Utdanningen har medisinsk bildebehandling som faglig profil der kunnskap om biologiske basalfag, bildebehandlingsmetoder, bildeanalyser og visualisering av medisinske bilder står sentralt. Sentralt i emnet er tema knyttet til hvordan avansert bildebehandling og kunstig intelligens kan komme pasienten til nytte.  Kunstig intelligens og innovasjon innen medisinsk bildebehandling står også sentralt. 
+Utdanningen har medisinsk bildebehandling som faglig profil der kunnskap om biologiske basalfag, bildebehandlingsmetoder, bildeanalyser og visualisering av medisinske bilder står sentralt. Sentralt i emnet er tema knyttet til hvordan avansert bildebehandling og kunstig intelligens kan komme pasienten til nytte.  Kunstig intelligens og innovasjon innen medisinsk bildebehandling står også sentralt.
 
 ## Læringsutbytte
 
@@ -77,11 +77,11 @@ Studenten…
 
 
 ## Anbefalte forkunnskaper
-RAD200, RAD210, RADP2, RAD220 og RADP3 
+RAD200, RAD210, RADP2, RAD220 og RADP3
 
 
 ## Undervisnings- og læringsformer
-I dette emnet vil studentaktive læringsformer benyttes for å involvere studentene i teoretisk læring, muliggjøre praktisk utprøving av teoretiske prinsipper og ferdigheter, og for å legge til rette for diskusjoner, samarbeidslæring og øvelse i å presentere relevant stoff. Arbeid i grupper vil stå i fokus i emnet. Ulike arbeidsformer er gruppearbeid, forelesninger og selvstudier, teambased learning, seminar, laboratorieøvelser på SimArena. Digitale læringsressurser vil benyttes, blant annet som forberedelser til undervisning og laboratorieøvelser. 
+I dette emnet vil studentaktive læringsformer benyttes for å involvere studentene i teoretisk læring, muliggjøre praktisk utprøving av teoretiske prinsipper og ferdigheter, og for å legge til rette for diskusjoner, samarbeidslæring og øvelse i å presentere relevant stoff. Arbeid i grupper vil stå i fokus i emnet. Ulike arbeidsformer er gruppearbeid, forelesninger og selvstudier, teambased learning, seminar, laboratorieøvelser på SimArena. Digitale læringsressurser vil benyttes, blant annet som forberedelser til undervisning og laboratorieøvelser.
 
 ## Arbeidskrav
 Følgende obligatoriske læringsaktiviteter må være godkjent for at studenten kan framstille seg til eksamen:

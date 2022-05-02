@@ -1,0 +1,50 @@
+name: rad230-img
+
+channels:
+  - simpleitk
+  - conda-forge
+
+dependencies:
+  - python==3.8
+  - jupyter
+  - ipython
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - pip
+  - git
+  - gdown
+  - ipywidgets
+  - itkwidgets
+  - numpy
+  - scipy
+  - pandas
+  - openpyxl
+  - seaborn
+  - SimpleITK
+  - scikit-image
+  - scikit-learn
+  - scikit-plot
+  - dipy
+  - imageio
+  - dcm2niix
+  - tifffile
+  - statsmodels
+  - nibabel
+  - nilearn
+  - networkx
+  - pygraphviz
+
+# To make a RAD230-IMG kernel:
+# python -m ipykernel install --user --name rad230-img --display-name "RAD230-IMG"
+
+# To activate the rad230-img conda environment:
+# conda activate rad230-img
+
+# To update the rad230-img conda environment:
+# conda env update -f environment-img.yml
+
+# To remove and reinstall the rad230-img environment (if installation problems):
+# conda deactivate
+# conda env remove -n rad230-img
+# conda env create -f environment-img.yml

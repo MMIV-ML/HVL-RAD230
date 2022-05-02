@@ -1,20 +1,10 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# MacOS
+*~
+\#*\#
+.\#*
 .DS_Store
-
-# Jupyter Notebook
 .ipynb_checkpoints
-
-# pyenv
-.python-version
-
-# 1-Kunstig-intelligens- (conda environment ?, data ?)
-
-# 2-Dyplæring- (conda environment ?, data ?)
+__MACOSX
+__pycache__
 
 
-# 3-Multispektral-MRI- (conda environment ?, data ?)
+./data   # Will be downloaded locally (or on Colab) from Google Drive when needed
