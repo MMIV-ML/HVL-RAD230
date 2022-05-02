@@ -19,7 +19,7 @@ Se gjennom kursmaterialet for denne modulen og gjør deg litt kjent med verktøy
 Det er også mulig å installere alle øvelser lokalt på egen laptop for de som ønsker det (se informasjon i [setup-img.md](./setup-img.md) og [environment-img.yml](./environment-img.yml)).
 Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læringsutbyttet kan være større gjennom å beherske Python-baserte verktøy på egen laptop, også for senere bruk i studiet og i arbeidet som radiograf.
 
-- [**0-test-installation.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb) (relevant for lokal installasjon, kfr. `environment-img.yml` aog `setup-img.md`) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb">
+- [**0-test-installation.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/0-test-installation.ipynb) (relevant for lokal installasjon, kfr. `environment-img.yml` aog `setup-img.md`) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 
