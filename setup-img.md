@@ -23,6 +23,11 @@ Virtual machines are deleted when idle for a while, and have a maximum lifetime 
 
 Colab notebooks are stored in [Google Drive](https://drive.google.com/drive/my-drive), or can be loaded from [GitHub](https://github.com). Colab notebooks can be shared just as you would with Google Docs or Sheets. Simply click the Share button at the top right of any Colab notebook, or follow these Google Drive [file sharing instructions](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en).
 
+In Colab (in `0-test-installation.ipynb`), you might need to:
+```
+!pip uninstall matplotlib  # then
+!pip install matplotlib==3.1.3
+```
 
 ## Anaconda:
 We recommend installing Python via the [Anaconda Distribution](https://www.anaconda.com/download). Be sure to use the "Python 3.8" version. We will use the Conda Package Management System within the Anaconda Distribution. From the [documentation](https://conda.io/docs):
