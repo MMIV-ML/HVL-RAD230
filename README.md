@@ -16,7 +16,7 @@ Vi er tre lærere / hjelpere som deltar: Arvid Lundervold (A.L.), Sathieash Kali
 Se gjennom kursmaterialet for denne modulen og gjør deg litt kjent med verktøyene GitHub, Python, Jupyter Notebooks, og Google Colab.
 
 ### Lokal installasjon via Anaconda
-Det er også mulig å installere alle øvelser lokalt på egen laptop for de som ønsker det (se informasjon i [setup.md](https://...).
+Det er også mulig å installere alle øvelser lokalt på egen laptop for de som ønsker det (se informasjon i [setup-img.md](./setup-img.md) og [environment-img.yml](./environment-img.yml)).
 Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læringsutbyttet kan være større gjennom å beherske Python-baserte verktøy på egen laptop, også for senere bruk i studiet og i arbeidet som radiograf.
 
 
