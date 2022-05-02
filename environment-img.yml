@@ -30,6 +30,7 @@ dependencies:
   - dcm2niix
   - tifffile
   - statsmodels
+  - pdpbox
   - nibabel
   - nilearn
   - networkx
