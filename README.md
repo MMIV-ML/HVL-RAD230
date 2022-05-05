@@ -23,7 +23,7 @@ Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læ
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 
-## Tidsplan (mindre justeringer kan opptre)
+## Tidsplan (mindre justeringer kan opptre, alle forelesninger og øvelser i Rom C121)
 
 | Dag og tidsrom |  Innhold
 |----------------|------------
