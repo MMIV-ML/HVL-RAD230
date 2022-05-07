@@ -31,8 +31,8 @@ Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læ
 | Dag og tidsrom |  Innhold
 |----------------|------------
 |**Torsdag 12/5**|                                                  
-|10:15-12:00     | Hva er kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. <br> Link til [presentasjonen](https://docs.google.com/presentation/d/e/2PACX-1vTnq7vD7ppuRE9Wrc1mj_JJmkDat9aBLW_P4Gm65K9BDYBXFv6ZOae1b-blhQadBYJ1LYbrP6DDG_L3/pub?start=false&loop=false&delayms=3000). Link til [notebook](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb) (A.L.)
-|12.45-15.00 | Arbeid med notebooken: [0-test-installation](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/main/0-test-installation.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (m/ M.K.)
+|10:15-12:00     | Hva er kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. <br> Link til [presentasjonen](https://docs.google.com/presentation/d/e/2PACX-1vTnq7vD7ppuRE9Wrc1mj_JJmkDat9aBLW_P4Gm65K9BDYBXFv6ZOae1b-blhQadBYJ1LYbrP6DDG_L3/pub?start=false&loop=false&delayms=3000). Link til [notebook](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/0-test-installation.ipynb) (A.L.)
+|12.45-15.00 | Arbeid med notebooken: [0-test-installation](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/0-test-installation.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/main/0-test-installation.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (m/ M.K.)
 |**Fredag 13/5** |                                                
 |10:15-11:15     | Hva er dyplæring (deep learning)? [Link til presentasjonen](https://...) (S.K.)
 |12:00-15:00     | Gjennomgang av hands-on eksempel med automatisk deteksjon av fraktur i skjelettrøntgenbilder. Link til [notebok](https://...)
