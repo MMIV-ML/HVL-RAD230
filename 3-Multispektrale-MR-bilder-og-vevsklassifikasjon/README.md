@@ -10,12 +10,8 @@ and (ii) illustrate the **generic nature of computational imaging**. <br>
 
 More specifically:
 - image processing, image noise, image filtering (e.g. Gabor filters)
-- supervised and unsupervised tissue classification in structural MRI (sMRI) recordings
+- **supervised** and **unsupervised tissue classification** in structural MRI (sMRI) recordings
 
-
-### Presentations: "Biomedical imaging in time and space" (in progress ...)
-- [[Part 1](https://docs.google.com/presentation/d/1wQRB70C-xh9gdnmSYQVphF4X9GAtQZSrU2wC0ymchH4/edit?usp=sharing)] (May 4th)
-- [[Part 2](https://docs.google.com/presentation/d/1Fr_3jeThP_3nRJ7AvlIh5XeY1OWHaHk_RoEl-gaL3lY/edit?usp=sharing)] (May 9th)
 
 -------------------------
 
@@ -41,6 +37,9 @@ conda env update --file environment-img.yml
 - [**0-test-installation.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb) (relevant for local installation, cf. `environment-img.yml` and `setup-img.md`, but has some important components for _Introduction to machine learning_) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
+- [**0-imaging-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/0-imaging-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/0-imaging-intro.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  
 - [**1-MRI-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/1-MRI-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/1-MRI-intro.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
@@ -62,7 +61,7 @@ conda env update --file environment-img.yml
 ## Sources of information related to MRI principles and applications
 
 ### Introductory videos
-- **How Does an MRI Scan Work**? 1:20 (https://youtu.be/1CGzk-nV06g)
+- [**How Does an MRI Scan Work**?](https://youtu.be/1CGzk-nV06g) 1:20 (https://youtu.be/1CGzk-nV06g)
 - **MRI vs. CT** 2:31 (https://youtu.be/aQZ8tTZnQ8A)
 - **Brain MRI scan protocols, positioning and planning** 9:34 (https://youtu.be/R5LQzoFynqI)
 - **MRI: Basic Physics & a Brief History**  25:51 (https://youtu.be/djAxjtN_7VE)
