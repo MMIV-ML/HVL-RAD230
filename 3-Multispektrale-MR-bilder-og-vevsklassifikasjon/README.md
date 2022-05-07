@@ -11,7 +11,6 @@ and illustrate the **generic nature of computational imaging**. <br>
 More specifically:
 - image processing, image noise, image filtering (e.g. Gabor filters)
 - supervised and unsupervised tissue classification in structural MRI (sMRI) recordings
-- the nature of 4D (3D + time) resting state BOLD functional MRI (rs-fMRI)
 
 
 ### Presentations: "Biomedical imaging in time and space" (in progress ...)
