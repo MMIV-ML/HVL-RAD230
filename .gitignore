@@ -5,6 +5,3 @@
 .ipynb_checkpoints
 __MACOSX
 __pycache__
-
-
-./data   # Will be downloaded locally (or on Colab) from Google Drive when needed
