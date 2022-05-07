@@ -22,28 +22,15 @@ More specifically:
 ### If you want to install this imaging lab locally, do:
 
 
-#### Install and activate the conda environment (see local [`setup-img.md`](../setup-img.md)) before you start:
+#### Install and activate the conda environment (read the local [`setup-img.md`](../setup-img.md)) craefully before you start:
 
-```bash
-# This you only need to do initially, and only once
-conda env create -f environment-img.yml
-```
-
-```bash
-# Activate the environment
-conda activate rad230-img
-```
-
-```bash
-# Install the specific `RAD230-IMG` Jupyter kernel (only once):
-python -m ipykernel install --user --name rad230-img --display-name "RAD230-IMG"
-```
 
 #### Update:
-The code and environment can be updated during the course. Run the following commands regularly from within this (`3-Multispektrale-MR-bilder-og-vevsklassifikasjon`) directory:
+The code and environment can be updated during the course. Run the following commands regularly from within **the parent (i.e. `cd ..`) ** of this (`3-Multispektrale-MR-bilder-og-vevsklassifikasjon`) directory:
 
 * Update this particular `rad230-img` environment:
 ```bash
+cd ..
 conda activate rad230-img
 conda env update --file environment-img.yml
 ```
