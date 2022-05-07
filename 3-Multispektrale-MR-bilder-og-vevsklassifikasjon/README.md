@@ -18,7 +18,7 @@ More specifically:
 ### If you want to install this imaging lab locally, do:
 
 
-#### Install and activate the conda environment (read the local [`setup-img.md`](../setup-img.md)) craefully before you start:
+#### Install and activate the conda environment (read the local [`setup-img.md`](../setup-img.md)) carefully before you start:
 
 
 #### Update:
