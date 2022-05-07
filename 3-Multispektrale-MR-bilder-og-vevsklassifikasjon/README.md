@@ -2,10 +2,10 @@
 
 ## Learning objectives
 
-In the following series of three Jupyter notebooks will explore **multichannel imaging data** from Magnetic Resonance Imaging measurements
-- **Magnetic Resonance Imaging** ([MRI](https://github.com/MMIV-ML/HVL-RAD230/tree/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/README.md#sources-of-information-related-to-mri-principles-and-applications))
+In the following series of three Jupyter notebooks will explore (i) **multichannel imaging data** from Magnetic Resonance Imaging measurements
+- see **Magnetic Resonance Imaging** ([MRI](https://github.com/MMIV-ML/HVL-RAD230/tree/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/README.md#sources-of-information-related-to-mri-principles-and-applications))
 
-and illustrate the **generic nature of computational imaging**. <br>
+and (ii) illustrate the **generic nature of computational imaging**. <br>
 
 
 More specifically:
@@ -26,7 +26,7 @@ More specifically:
 
 
 #### Update:
-The code and environment can be updated during the course. Run the following commands regularly from within **the parent (i.e. `cd ..`) ** of this (`3-Multispektrale-MR-bilder-og-vevsklassifikasjon`) directory:
+The code and environment can be updated during the course. Run the following commands regularly from within **the parent (i.e. `cd ..`)** of this (`3-Multispektrale-MR-bilder-og-vevsklassifikasjon`) directory:
 
 * Update this particular `rad230-img` environment:
 ```bash
@@ -62,7 +62,7 @@ conda env update --file environment-img.yml
 ## Sources of information related to MRI principles and applications
 
 ### Introductory videos
-- **How Does an MRI Scan Work?** 1:20 (https://youtu.be/1CGzk-nV06g)
+- **How Does an MRI Scan Work**? 1:20 (https://youtu.be/1CGzk-nV06g)
 - **MRI vs. CT** 2:31 (https://youtu.be/aQZ8tTZnQ8A)
 - **Brain MRI scan protocols, positioning and planning** 9:34 (https://youtu.be/R5LQzoFynqI)
 - **MRI: Basic Physics & a Brief History**  25:51 (https://youtu.be/djAxjtN_7VE)
