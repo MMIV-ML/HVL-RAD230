@@ -41,7 +41,7 @@ conda env update --file environment-img.yml
 - [**0-test-installation.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb) (relevant for local installation, cf. `environment-img.yml` and `setup-img.md`, but has some important components for _Introduction to machine learning_) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
-- [**1-MRI-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/1-MRI-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-MMIV-DLN-AI-2022/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/1-MRI-intro.ipynb">
+- [**1-MRI-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/1-MRI-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/1-MRI-intro.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 - [**2-sMRI-KNN-tissue-classification.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/2-sMRI-KNN-tissue-classification.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/2-biomedical-imaging/5-sMRI-KNN-tissue-classification.ipynb">
