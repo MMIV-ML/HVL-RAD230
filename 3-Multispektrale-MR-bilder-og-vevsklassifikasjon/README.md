@@ -34,19 +34,19 @@ conda env update --file environment-img.yml
 
 # The series of notebooks:
 
-- [**0-test-installation.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb) (relevant for local installation, cf. `environment-img.yml` and `setup-img.md`, but has some important components for _Introduction to machine learning_) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb">
+- [**0-test-installation.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/0-test-installation.ipynb) (relevant for local installation, cf. `environment-img.yml` and `setup-img.md`, but has some important components for _Introduction to machine learning_) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/0-test-installation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
-- [**0-imaging-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/0-imaging-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/0-imaging-intro.ipynb">
+- [**0-imaging-intro.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/0-imaging-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/0-imaging-intro.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   
-- [**1-MRI-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/1-MRI-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/1-MRI-intro.ipynb">
+- [**1-MRI-intro.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/1-MRI-intro.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/1-MRI-intro.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
-- [**2-sMRI-KNN-tissue-classification.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/2-sMRI-KNN-tissue-classification.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/2-biomedical-imaging/5-sMRI-KNN-tissue-classification.ipynb">
+- [**2-sMRI-KNN-tissue-classification.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/2-sMRI-KNN-tissue-classification.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/2-biomedical-imaging/5-sMRI-KNN-tissue-classification.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
-- [**3-sMRI-Kmeans-tissue-classification.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/3-sMRI-Kmeans-tissue-classification.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/3-sMRI-Kmeans-tissue-classification.ipynb">
+- [**3-sMRI-Kmeans-tissue-classification.ipynb**](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/3-sMRI-Kmeans-tissue-classification.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/3-Multispektrale-MR-bilder-og-vevsklassifikasjon/3-sMRI-Kmeans-tissue-classification.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 <!--
