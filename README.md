@@ -1,6 +1,6 @@
 # HVL-RAD230
 
-(_v.2022-05-07 A.L._)
+(_v.2022-05-10 A.L._)
 
 ## RAD230 - Medisinsk bildebehandling, kunstig intelligens og innovasjon i radiografi (HVL)
 
@@ -32,7 +32,7 @@ Dette er litt mer krevende enn å kjøre alle Notebooks i skyen (Colab), men læ
 |----------------|------------
 |**Torsdag 12/5**|                                                  
 |10:15-12:00     | Hva er kunstig intelligens og beregningsorientert medisin? motivasjon og målsetting med modulen. <br> Link til [presentasjonen](https://docs.google.com/presentation/d/e/2PACX-1vTnq7vD7ppuRE9Wrc1mj_JJmkDat9aBLW_P4Gm65K9BDYBXFv6ZOae1b-blhQadBYJ1LYbrP6DDG_L3/pub?start=false&loop=false&delayms=3000). Link til notebook [1-simple-ml-examples.ipynb](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/1-Kunstig-intelligens-og-beregningsorientert-medisin/1-simple-ml-examples.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/1-Kunstig-intelligens-og-beregningsorientert-medisin/1-simple-ml-examples.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (A.L.)
-|12.45-15.00 | Arbeid med notebooken: [0-test-installation](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/0-test-installation.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/main/0-test-installation.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (m/ M.K.)
+|12.45-15.00 | Arbeid med notebooken: [0-test-installation](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/0-test-installation.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/main/0-test-installation.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> og [1-simple-ml-examples.ipynb](https://nbviewer.org/github/MMIV-ML/HVL-RAD230/blob/main/1-Kunstig-intelligens-og-beregningsorientert-medisin/1-simple-ml-examples.ipynb) <a href="https://colab.research.google.com/github/MMIV-ML/HVL-RAD230/blob/master/1-Kunstig-intelligens-og-beregningsorientert-medisin/1-simple-ml-examples.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (m/ M.K.)
 |**Fredag 13/5** |                                                
 |10:15-11:15     | Hva er dyplæring (deep learning)? Link til [presentasjonen](https://docs.google.com/presentation/d/e/2PACX-1vS4XgCOMcRIKjpiypqcJ-pCX0IfmKBfOsQMzZzih8kGoKE5IYpemXr2NZEJIkTikVyhDJmlnM-rHmsG/pub?start=false&loop=false&delayms=3000) (S.K.)
 |12:00-15:00     | Gjennomgang av hands-on eksempel med automatisk deteksjon av fraktur i skjelettrøntgenbilder. Link til [notebok](https://github.com/MMIV-ML/HVL-RAD230/tree/main/2-Dypl%C3%A6ring-og-automatisk-deteksjon-av-abnormalitet-i-skjelettr%C3%B8ntgen)
